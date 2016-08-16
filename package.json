@@ -27,9 +27,12 @@
   "dependencies": {
     "bignumber.js": "^2.4.0",
     "cli-color-tty": "^2.0.0",
+    "dapple-core": "^0.1.2",
     "deasync": "^0.1.7",
     "lodash": "^4.15.0",
+    "stream-combiner": "^0.2.2",
     "through2": "^2.0.1",
-    "vinyl": "^1.2.0"
+    "vinyl": "^1.2.0",
+    "vinyl-fs": "^2.4.3"
   }
 }
