@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/mhhf/dapple-test/issues"
   },
-  "homepage": "https://github.com/mhhf/dapple-test#readme"
+  "homepage": "https://github.com/mhhf/dapple-test#readme",
+  "dependencies": {
+    "bignumber.js": "^2.4.0",
+    "cli-color-tty": "^2.0.0",
+    "deasync": "^0.1.7",
+    "lodash": "^4.15.0",
+    "through2": "^2.0.1",
+    "vinyl": "^1.2.0"
+  }
 }
