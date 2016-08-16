@@ -1,0 +1,27 @@
+{
+  "name": "dapple-test",
+  "version": "0.0.1-dev",
+  "description": "Dapple Test utility",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mhhf/dapple-test.git"
+  },
+  "keywords": [
+    "dapple",
+    "test",
+    "solidity",
+    "dapp",
+    "ethereum",
+    "eth"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhhf/dapple-test/issues"
+  },
+  "homepage": "https://github.com/mhhf/dapple-test#readme"
+}
