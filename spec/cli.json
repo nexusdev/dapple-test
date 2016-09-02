@@ -4,7 +4,7 @@
       "name": "test",
       "options" : [
         {
-          "name": "[-r <RegExp>]",
+          "name": "[-r <filter>]",
           "summary": "filter the test classes, you want to run"
         },
         {
