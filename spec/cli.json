@@ -18,6 +18,10 @@
         {
           "name": "[--persistent]",
           "summary": "persistently save the chain state to current branch"
+        },
+        {
+          "name": "[--optimize]",
+          "summary": "turn on the optimization flag for solidity"
         }
       ],
       "summary" : "runs a local testnet with all your tests",
