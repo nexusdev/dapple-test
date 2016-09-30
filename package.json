@@ -1,6 +1,6 @@
 {
   "name": "dapple-test",
-  "version": "0.0.8-dev",
+  "version": "0.0.9",
   "description": "Dapple Test utility",
   "main": "lib/main.js",
   "scripts": {
