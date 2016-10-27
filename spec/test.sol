@@ -42,7 +42,7 @@ contract Test is Debug {
     function fail() {
         failed = true;
     }
-    function assert(bool what, bytes error) {
+    function assertTrue(bool what, bytes error) {
         if(!what) {
             fail(error);
         }
