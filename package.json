@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/mhhf/dapple-test#readme",
   "dependencies": {
+    "async": "^2.1.2",
     "bignumber.js": "^2.4.0",
     "cli-color-tty": "^2.0.0",
     "dapple-core": "^0.1.26",
