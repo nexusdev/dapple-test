@@ -1,6 +1,6 @@
 {
   "name": "dapple-test",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "Dapple Test utility",
   "main": "lib/main.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "async": "^2.1.2",
     "bignumber.js": "^2.4.0",
     "cli-color-tty": "^2.0.0",
-    "dapple-core": "^0.1.26",
+    "dapple-core": "^0.1.28",
     "deasync": "^0.1.7",
     "lodash": "^4.15.0",
     "stream-combiner": "^0.2.2",
