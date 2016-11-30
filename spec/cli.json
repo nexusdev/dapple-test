@@ -22,6 +22,10 @@
         {
           "name": "[--optimize]",
           "summary": "turn on the optimization flag for solidity"
+        },
+        {
+          "name": "[--report]",
+          "summary": "log //@log statements"
         }
       ],
       "summary" : "runs a local testnet with all your tests",
